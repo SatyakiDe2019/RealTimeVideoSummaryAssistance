@@ -135,5 +135,5 @@ If you encounter any issues not covered in this guide, please contact the projec
 - To view Python, check out the [Python Page](https://docs.python.org/3/).
 - To view Sarvam AI, check out the [Anthropic Page](https://docs.sarvam.ai/api-reference-docs/introduction).
 - To view Open AI, check out the [OpenAI Page](https://platform.openai.com/docs/api-reference/introduction).
-- To view LangChain, check out the [OpenAI Page](https://python.langchain.com/docs/introduction/).
-- To view AutoGen, check out the [OpenAI Page](https://microsoft.github.io/autogen/stable//index.html).
+- To view LangChain, check out the [LangChain Page](https://python.langchain.com/docs/introduction/).
+- To view AutoGen, check out the [AutoGen Page](https://microsoft.github.io/autogen/stable//index.html).
